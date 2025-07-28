@@ -1,0 +1,24 @@
+body {
+  background: lightblue;
+  text-align: center;
+  width: 510px;
+}
+
+
+
+#img1 {
+  transform: scale(0.65) rotate(-30deg) translateX(-2px);
+}
+
+#img2 {
+  transform: scale(0.65) rotate(30deg);
+}
+
+#img3 {
+  transform: scale(0.65) rotate(210deg) translate(50px, 80px);
+}
+
+#img4 {
+  transform: scale(0.65) rotate(150deg) translate(-50px, 80px);
+}
+
